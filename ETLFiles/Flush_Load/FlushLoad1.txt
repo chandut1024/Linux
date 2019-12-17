@@ -1,0 +1,6 @@
+EMAIL|BRAND|MSISDN|MESSAGE|CURRENCY|DATE
+sandeepkumar.s@imimobile.com|1234|447538065351|MSG1|2$|13-09-2019
+waseem.a@imimobile.com|1234|447399871729|MSG2|3$|13-09-2019
+pavani.l@imimobile.com|1234|447399887265|MSG3|4€|13-09-2019
+preetham.b@imimobile.com|5678|447742721878|MSG4|4€|13-09-2019
+

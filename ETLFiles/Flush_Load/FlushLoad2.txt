@@ -1,0 +1,9 @@
+EMAIL|BRAND|MSISDN|MESSAGE|CURRENCY|DATE
+venkatasatyanarayana.n@imimobile.com|1212|447904349500|MSG1|4€|13-09-2019
+jayakrishna.b@imimobile.com|1313|447946558163|MSG2|4€|13-09-2019
+madhulika.d@imimobile.com|1313|447824876538|MSG3|4€|13-09-2019
+pradeep.a@imimobile.com|1414|447879997725|MSG4|4€|13-09-2019
+prasanna.t@imimobile.com|1515|447725234955|MSG5|4€|13-09-2019
+sampoorna.y@imimobile.com|1616|447725234915|MSG1|4€|13-09-2019
+chandu.t@imimobile.com|1234|447725234904|MSG2|4€|13-09-2019
+madhusudhan.u@imimobile.com|1313|447508350738|MSG3|4€|13-09-2019

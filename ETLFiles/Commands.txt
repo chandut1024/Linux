@@ -1,0 +1,26 @@
+Create a FTP Location in paradigm:
+
+sh createftpparadigm.sh
+
+/imihome/chandu_t/createftpparadigm.sh -- give the file location it will create automatically
+
+ssh 172.16.244.218 sudo mkdir /apps/datafiles_1/PM/TESTDATA/ETLFiles/BasicETL/201912132302/
+ssh 172.16.244.218 sudo chmod 777 /apps/datafiles_1/PM/TESTDATA/ETLFiles/BasicETL/201912132302/
+ssh 172.16.244.218 sudo su - appuser -c jps
+ssh 172.16.244.218 sudo sh /apps/datafiles_1/testdata/TEST/pm_check.sh
+
+Placing file in Paradigm:
+
+sh createftpparadigm.sh
+
+inputs Filename, location
+
+Checking the Logs in paradigm:
+
+sh dmcheckparadigm.sh
+exit
+
+
+
+
+
